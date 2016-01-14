@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[vptest01]]></title>
         <description><![CDATA[vptest01]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vptest01/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 19:04:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 19:09:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vptest01/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pocket: Log In]]></title>
+            <description><![CDATA[<article><h1>Pocket: Log In</h1><p>When you find something you want to view later, put it in Pocket.</p></article>]]></description>
+            <link>https://getpocket.com/a/read/1099455150</link>
+            <guid isPermaLink="false">545cbc24-8b77-4efd-87a5-748b713a57e5</guid>
+            <pubDate>Thu, 14 Jan 2016 19:09:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is a headline]]></title>
-            <description><![CDATA[<article><h1>This is a headline</h1><p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34a37aa174eb5b6e735b88f9065ce1e7d2cbe411.jpg"></article>]]></description>
-            <link>undefinedthis-is-a-headline/index.html</link>
+            <description><![CDATA[<article><h1>This is a headline</h1><p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9edcc727717a9563801e19e6f1f9365b3362f63.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vptest01/this-is-a-headline/index.html</link>
             <guid isPermaLink="false">b7d32d85-6bef-4b73-bd6a-ef7b7c7048f3</guid>
             <pubDate>Thu, 14 Jan 2016 19:04:06 GMT</pubDate>
         </item>
