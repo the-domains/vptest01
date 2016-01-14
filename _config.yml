@@ -1,0 +1,28 @@
+name: vptest01
+favicon: null
+layout_spectrum: 0.06244002911262214
+typography_spectrum: 0.20209681359119713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7605226633604616
+  lightness: 0.9159725699573755
+  saturation: 0.729088930413127
+  rhythmicContrast: 0.7378948314581066
+purpose: []
